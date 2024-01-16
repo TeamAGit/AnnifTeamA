@@ -1,4 +1,4 @@
-#README
+##README
 ##Goal Of This Project
 
 ##The Goal of this Project is to use the Annif Toolkit to assign RVK codes to around 15,000 of the university's theses.
